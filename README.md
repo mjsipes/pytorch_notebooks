@@ -37,10 +37,10 @@ To investigate this, I used the same `x` and `y` values for the training data as
 My assumption was that the weights associated with the random inputs would eventually learn a value of 0, given that these inputs had no correlation with the output. The key question I wanted to answer was: *Would introducing these random inputs affect the way the gradient is calculated for the weight attached to the original `x` input?*
 
 **LinearRegression.ipynb** training
-<img width="400" alt="image" src="https://github.com/user-attachments/assets/bc81d6d2-7f6b-4d25-81ee-52c3964286c4">
+<img width="800" alt="image" src="https://github.com/user-attachments/assets/bc81d6d2-7f6b-4d25-81ee-52c3964286c4">
 
 **MatrixRegression.ipynb** training
-<img width="400" alt="image" src="https://github.com/user-attachments/assets/6b925a98-01c8-49e3-8e6c-a425c77b91fd">
+<img width="800" alt="image" src="https://github.com/user-attachments/assets/6b925a98-01c8-49e3-8e6c-a425c77b91fd">
 
 **LinearRegression.ipynb** results
 <img width="800" alt="image" src="https://github.com/user-attachments/assets/8fe1d896-5c83-4a24-917d-963efcd362d2">
